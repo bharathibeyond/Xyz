@@ -5,7 +5,12 @@ application up and running.
 
 Things you may want to cover:
 
-* Ruby version
+## Environment Setup
+
+1. Install ruby v2.4.1 using rvm
+2. Install gem bundler ```gem install bundler```
+3. Install PostgreSQL RDBMS
+
 
 * System dependencies
 
